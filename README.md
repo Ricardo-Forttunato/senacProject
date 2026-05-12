@@ -13,4 +13,4 @@ O projeto foi desenvolvido em HTML, CSS. A estrutura do projeto é composta por 
 Obs: As imagens utilizadas no projeto foram criadas pr inteligencia artificial e não representam pessoas reais.
 
 O site foi hopspedado pelo github pages e pode ser acessado pelo link: 
-[projeto PTI web Standards Senac](https://ricardo-forttunato.github.io/senacProject/)
+[projeto PTI web Standards Senac](https://ricardo-forttunato.github.io/landing-page-profissional-autonomo/)
